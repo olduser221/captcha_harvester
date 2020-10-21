@@ -1,0 +1,22 @@
+{
+  "name": "captcha_harvester",
+  "version": "1.0.0",
+  "description": "Captcha Harvester",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recaptchaToken/captcha_harvester.git"
+  },
+  "author": "Christopher Soscia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recaptchaToken/captcha_harvester/issues"
+  },
+  "homepage": "https://github.com/recaptchaToken/captcha_harvester#readme",
+  "dependencies": {
+    "playwright": "^1.5.1"
+  }
+}
